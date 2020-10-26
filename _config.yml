@@ -28,3 +28,5 @@
 <輸入 類型=“電子郵件”名稱=“電子郵件”值=“信箱” >
 <輸入 類型=“ url ”名稱=“ url ”值=“網址” >
 </ fieldset >
+
+theme: jekyll-theme-slate
